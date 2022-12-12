@@ -15,7 +15,7 @@
     "axios": "^0.19.2",
     "cross-env": "^5.2.0",
     "element-ui": "^2.4.11",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "less-loader": "^6.0.0",
     "nuxt": "^2.0.0",
     "vant": "^2.8.0"
